@@ -46,7 +46,7 @@ Let’s transform data on Power Query Editor, we need to remove some unnecessary
 4. **Modeling In Power BI**
 After creating the date master table, establish the relationship between these two tables using modelling. Go to the model view tab and create one-to-many relationship between date columns in both the tables. Also create a new measure for ‘Total Sales’ and keep all the new measures in separate table called ‘DAX Measures’.
 
-![image](https://github.com/MithilKothari/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/fa1df666-5ee3-428a-b9ba-69ed47ca3ead)
+![image]
 
 6. **Data Visualization**
    
