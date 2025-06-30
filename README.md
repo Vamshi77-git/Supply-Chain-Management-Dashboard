@@ -27,7 +27,7 @@ The automotive supply chain involves complex processes and a large number of sup
 10. Add Navigation
 
 ### Project Architecture
-
+![image](https://github.com/Vamshi77-git/Supply-Chain-Management-Dashboard/blob/main/Images/Project%20Architecture.png)
 
 
 ### Summary for Steps followed 
