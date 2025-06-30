@@ -59,5 +59,7 @@ In our dashboard project, we are gonna create four different pages and implement
 
 **Power Bi Dashboard Reprot**
 
-(https://github.com/Vamshi77-git/Supply-Chain-Management-Dashboard/blob/main/Images/Customer%20Summary.png)
+![image](https://github.com/Vamshi77-git/Supply-Chain-Management-Dashboard/blob/main/Images/Customer%20Summary.png)
+![image](https://github.com/Vamshi77-git/Supply-Chain-Management-Dashboard/blob/main/Images/Order%20Summary.png)
+![image](https://github.com/Vamshi77-git/Supply-Chain-Management-Dashboard/blob/main/Images/Sales%20Summary.png)
 
