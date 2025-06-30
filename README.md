@@ -55,7 +55,7 @@ In our dashboard project, we are gonna create four different pages and implement
 # Report Snapshot (Power BI DESKTOP & Python Code)
 
 **Python Code**
-![image](https://github.com/MithilKothari/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/86b0d38a-6e2b-489e-9b65-26b7a364f196)
+![image](https://github.com/Vamshi77-git/Supply-Chain-Management-Dashboard/blob/main/Images/Python%20Code.png)
 
 **Power Bi Dashboard Reprot**
 
