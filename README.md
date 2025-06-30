@@ -28,7 +28,7 @@ The automotive supply chain involves complex processes and a large number of sup
 
 ### Project Architecture
 
-![image](https://github.com/MithilKothari/Supply-Chain-Management-Dashboard-Power-Bi-/assets/156261969/45a4771d-09a5-4f91-99a6-dac28bc34c7e)
+
 
 ### Summary for Steps followed 
 1. **Data Gathering**
