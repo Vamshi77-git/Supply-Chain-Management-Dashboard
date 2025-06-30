@@ -59,7 +59,5 @@ In our dashboard project, we are gonna create four different pages and implement
 
 **Power Bi Dashboard Reprot**
 
-"C:\Users\VAMSHI\OneDrive\Desktop\Supply Chain Management\Supply Chain Insights.png"
-"C:\Users\VAMSHI\OneDrive\Desktop\Supply Chain Management\Sales Summary.png"
-"C:\Users\VAMSHI\OneDrive\Desktop\Supply Chain Management\Order Summary.png"
-"C:\Users\VAMSHI\OneDrive\Desktop\Supply Chain Management\Customer Summary.png"
+(https://github.com/Vamshi77-git/Supply-Chain-Management-Dashboard/blob/main/Images/Customer%20Summary.png)
+
